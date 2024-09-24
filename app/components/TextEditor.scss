@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  width: 50%;
+  height: 30px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  padding: 2px 2px 2px 8px;
+  border: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  color: black;
+}
+
+.submit-button {
+  display: flex;
+  justify-content: end;
+  margin-top: 20px;
+}
